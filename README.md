@@ -35,8 +35,8 @@
 <p><img src="https://profile-counter.glitch.me/{rafael-otto}/count.svg" /></p> 
 
 
-<!-- ![snake gif](https://github.com/rafael-otto/rafael-otto/blob/output/github-contribution-grid-snake-dark.svg) -->
-
+![snake gif](https://github.com/rafael-otto/rafael-otto/blob/output/github-contribution-grid-snake-dark.svg)
+ 
 </div>
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
 
