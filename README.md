@@ -3,11 +3,11 @@
 <div>
 
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+August+Otto;I'm+16+years+old;I+am+from+Joinville,+SC;I'm+studying+at+IFC-Araquari)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Rafael+August+Otto;I'm+17+years+old;I'm+from+Joinville,+SC)](https://git.io/typing-svg)
 
+<!--
 </div>
-
-<div align="center">
+ <div align="center">
   <a href="https://github.com/rafael-otto">
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-otto&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
@@ -15,9 +15,10 @@
   <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-otto&layout=compact&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/rafael-otto/rafael-otto"/>
 </a>
   
-</div>
+</div> -->
 
 ##
+<!--
 [![rafael august otto graphs](https://github-readme-activity-graph.vercel.app/graph?username=rafael-otto&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/rafael-otto/rafael-otto)
 
 <div style="display: inline_block width: 45%"><br>
@@ -33,7 +34,7 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/rafael-otto/)
 <p><img src="https://profile-counter.glitch.me/{rafael-otto}/count.svg" /></p> 
-
+-->
 
 ![snake gif](https://github.com/rafael-otto/rafael-otto/blob/output/github-contribution-grid-snake-dark.svg)
  
